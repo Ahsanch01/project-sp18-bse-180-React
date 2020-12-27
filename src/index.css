@@ -1,0 +1,23 @@
+h1{
+  background-color: aquamarine;
+  color: blueviolet;
+}
+.green{
+  color: green;
+}
+.orange{
+  color: orange;
+}
+ul li{
+  display: inline;
+  
+  padding-left: 1rem;
+  color: white;
+  
+}
+.white{
+ color: white;
+ font-size: 25px;
+ text-decoration: none;
+}
+
